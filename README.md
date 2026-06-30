@@ -12,7 +12,7 @@ Before you begin, make sure you have the following installed:
 ---
 ### Step 1: GitHub Desktop
 
-Launch GitHub Desktop and clone the repsoitery. Use file -> Clone repository -> https://github.com/Kit-Searle/msf_su_workshop.git
+Launch GitHub Desktop and clone the repsoitery. Use file -> Clone repository -> https://github.com/Kit-Searle/msf_workshop.git
 
 This step might take a while, while this is busy you can move on to the next step.
 
